@@ -1,1 +1,1 @@
-print("Hello aws studends!")
+print("Hello aws class students!")
